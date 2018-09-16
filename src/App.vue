@@ -1,6 +1,8 @@
 <template>
 <section id ="app">
-
+    <div class="logo">
+    <img src="/Frontline_Logo.png">
+    </div>
 
 
     <main class="wrapper ai-window">
@@ -13,6 +15,8 @@
             <h1 class="title mdc-typography--headline">
                 <br>
                 <br>
+                    {{config.locale.strings.welcomeFrontline}}
+                    <br>
                     {{config.locale.strings.welcomeTitle}}
 
                     <p class="mdc-typography--body2">{{config.locale.strings.welcomeDescription}}</p>
