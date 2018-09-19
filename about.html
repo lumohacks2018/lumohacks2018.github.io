@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Frontline</title>
+<meta name="description" content="Frontline Chat">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link rel="stylesheet" href="main.css">
+<script>
+$(document).ready(function(){
+  $(".menu_button").click(function(){
+    show_menu();
+  });
+});
+
+function show_menu()
+{
+$('.menu_links').animate({width:'toggle'},350);
+}
+
+</script>
+</head>
+<body>
+  <div class="menu">
+    <p class="menu_button">
+    <img src="menuicon-grey.png">
+    </p>
+    <div class="logo">
+    <a href="./index.html"><img src="Frontline_Logo.png"></a>
+    </div>
+
+</div>
+
+<ul class="menu_links">
+
+<li><a href="#"></a></li>
+<li><a href="./about.html">About</a></li>
+
+
+</ul>
+
+
+
+</body>
+</html>

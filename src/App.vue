@@ -1,8 +1,6 @@
 <template>
 <section id ="app">
-    <div class="logo">
-    <img src="/Frontline_Logo.png">
-    </div>
+
 
 
     <main class="wrapper ai-window">
