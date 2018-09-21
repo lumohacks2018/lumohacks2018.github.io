@@ -110,18 +110,3 @@ li:hover a
   -ms-transition: all 200ms linear;
   transition: all 200ms linear;
 }
-#hamburger {
-    position: absolute;
-    right: 0;
-    top: 0;
-    z-index: 9999;
-    display: block;
-    padding: 37px;
-    width: 98px;
-    overflow: hidden;
-    cursor: pointer;
-    -webkit-transition: all 0.3s ease-out;
-    -moz-transition: all 0.3s ease-out;
-    -o-transition: all 0.3s ease-out;
-    transition: all 0.3s ease-out;
-}
