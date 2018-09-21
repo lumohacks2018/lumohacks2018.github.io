@@ -1,6 +1,10 @@
-body{
-    margin: 0;
-    background-color: #F5F5F5;
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,500';
+
+body
+{
+  font-family: "Open Sans", "Helvetica", sans-serif;
+  margin: 0;
+  background-color: #F5F5F5;
 }
 .menu
 {
@@ -35,6 +39,20 @@ body{
   width:300px;
   padding: 15px;
 }
+
+.horizontal_gallery_container
+{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.horizontal_gallery
+{
+  display: inline;
+  margin: 5px 20px;
+  padding: 5px;
+}
+
 ul
 {
   right: 0;
@@ -47,6 +65,20 @@ ul
   position:absolute;
   box-shadow:inset 0px 0px 50px 0px #6E6E6E;
   list-style:none;
+}
+
+main
+{
+  margin: 10 auto;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40em;
+
+  line-height: 1.5;
+  padding-top: 4em;
+  padding-bottom: 4em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 li:hover
