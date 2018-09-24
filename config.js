@@ -1,6 +1,6 @@
 export default {
     app: {
-        token: "fdf0eefdbcb14d328c30085f45905715", // <- enter your token here
+        token: "deef7a77e2f34f7ab42300620b8db1c6", // <- enter your token here
         muted: false, // <- mute microphone by default
         googleIt: true // <- ask users to google their request, in case of input.unknown action
     },
