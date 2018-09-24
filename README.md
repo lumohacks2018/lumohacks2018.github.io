@@ -8,6 +8,8 @@ Website for an interactive chatbot which provides personalized and localized sup
 
 View the website here: https://lumohacks2018.github.io/
 
+![Screenshot of website](readme-img/dialog-screenshot-website.jpg)
+
 ## Setup
 
 The website is created with Vue.js and the HTML pages can be viewed without prior setup. After making changes to the Javascript or the configuration, though, the project needs to be set up and built before the changes will be reflected.
