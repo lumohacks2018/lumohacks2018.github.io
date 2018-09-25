@@ -8,6 +8,8 @@ Website for an interactive chatbot which provides personalized and localized sup
 
 View the website here: https://lumohacks2018.github.io/
 
+Learn more about the project here: https://lumohacks2018.github.io/about.html
+
 ![Screenshot of website](readme-img/dialog-screenshot-website.jpg)
 
 ## Setup
