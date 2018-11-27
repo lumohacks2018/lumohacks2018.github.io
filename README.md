@@ -38,3 +38,7 @@ This should be run before committing, if the Javascript or configuration has bee
 To change the website to use another Dialogflow agent, edit the configuration in `config.js` and change `app.token` to the appropriate client access token.
 
 To find the client access token for your agent in Dialogflow, click the gear wheel to navigate to the settings. Under the _General_ tab, scroll down to find the token.
+
+<p align="center">
+  <img src ="assets/img/logo.png"/>
+</p>
